@@ -1,0 +1,6 @@
+# lotto.py는 파이썬 표준 라이브러리(random, tkinter, datetime)만 사용합니다.
+# 따로 설치할 외부 패키지는 없습니다.
+# 파이썬 버전: 3.10 (conda create -n camp python=3.10 -y)
+
+datetime
+streamlit

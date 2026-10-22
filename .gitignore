@@ -1,0 +1,19 @@
+# 비밀 값 (키 등) - 예시 파일만 올린다
+.env
+.env.*
+!.env.example
+
+# Streamlit 비밀 설정
+.streamlit/secrets.toml
+
+# 파이썬
+__pycache__/
+*.pyc
+
+# 가상환경
+.venv/
+venv/
+
+# 에디터
+.vscode/
+.idea/
